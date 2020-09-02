@@ -78,10 +78,10 @@ This is the Python client library for Google's discovery based APIs.
 
 pip install virtualenv
 
-virtualenv <your-env>
+<p>virtualenv <your-env></p>
   
-<your-env>\Scripts\activate
+<p><your-env>\Scripts\activate</p>
   
-<your-env>\Scripts\pip.exe install google-api-python-client
+<p><your-env>\Scripts\pip.exe install google-api-python-client</p>
 
 
