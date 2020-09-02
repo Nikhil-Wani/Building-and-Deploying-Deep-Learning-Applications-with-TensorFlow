@@ -21,6 +21,14 @@ TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backwa
 
 <b>Requirements</b>
 
+1. numpy
+2. pip>=9.0.0
+3. Keras
+4. pandas
+5. scikit-learn
+6. scipy
+7. tensorflow>=1.0.0
+8. google-api-python-client
 
 <b>Install</b>
 
