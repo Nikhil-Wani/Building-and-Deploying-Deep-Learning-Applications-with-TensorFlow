@@ -1,5 +1,16 @@
 # Building-and-Deploying-Deep-Learning-Applications-with-TensorFlow
 
+Topics include:
+
+1. What's TensorFlow?
+2. Hardware, software, and language requirements
+3. Creating a TensorFlow model
+4. Training a deep learning model with TensorFlow
+5. Visualizing the computational graph
+6. Adding custom visualizations to TensorBoard
+7. Exporting models for use with Google Cloud
+
+
 # Tensorflow
 
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
