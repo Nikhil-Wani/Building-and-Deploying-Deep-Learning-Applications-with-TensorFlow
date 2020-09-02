@@ -8,7 +8,7 @@ TensorFlow was originally developed by researchers and engineers working on the 
 
 TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backward compatible API for other languages.
 
-# Install
+<b>Install</b>
 
 See the TensorFlow install guide for the pip package, to enable GPU support, use a Docker container, and build from source.
 
