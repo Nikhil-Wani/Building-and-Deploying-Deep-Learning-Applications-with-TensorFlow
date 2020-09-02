@@ -77,8 +77,11 @@ To update TensorFlow to the latest version, add --upgrade flag to the above comm
 This is the Python client library for Google's discovery based APIs. 
 
 pip install virtualenv
+
 virtualenv <your-env>
+  
 <your-env>\Scripts\activate
+  
 <your-env>\Scripts\pip.exe install google-api-python-client
 
 
