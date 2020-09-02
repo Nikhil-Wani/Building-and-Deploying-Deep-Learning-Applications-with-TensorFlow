@@ -10,24 +10,15 @@ TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backwa
 
 # Install
 
-
 See the TensorFlow install guide for the pip package, to enable GPU support, use a Docker container, and build from source.
 
 To install the current release, which includes support for CUDA-enabled GPU cards (Ubuntu and Windows):
 
 $ pip install tensorflow
+
 A smaller CPU-only package is also available:
 
 $ pip install tensorflow-cpu
+
 To update TensorFlow to the latest version, add --upgrade flag to the above commands.
 
-Nightly binaries are available for testing using the tf-nightly and tf-nightly-cpu packages on PyPi.
-
-Try your first TensorFlow program
-$ python
->>> import tensorflow as tf
->>> tf.add(1, 2).numpy()
-3
->>> hello = tf.constant('Hello, TensorFlow!')
->>> hello.numpy()
-b'Hello, TensorFlow!'
