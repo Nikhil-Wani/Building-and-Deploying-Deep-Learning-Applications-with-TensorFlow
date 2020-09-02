@@ -28,5 +28,10 @@ Keras is a minimalist Python library for deep learning that can run on top of Th
 
 $ pip install Keras
 
+# Sequence of codes
 
+1. creating a tensorflow model
+2. Training model in tensorflow
+3. Tensorboard
+4. Using a trained tensorflow
 
