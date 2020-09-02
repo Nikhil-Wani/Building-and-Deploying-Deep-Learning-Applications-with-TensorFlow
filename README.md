@@ -22,3 +22,11 @@ $ pip install tensorflow-cpu
 
 To update TensorFlow to the latest version, add --upgrade flag to the above commands.
 
+# Keras
+
+Keras is a minimalist Python library for deep learning that can run on top of Theano or TensorFlow. It was developed to make implementing deep learning models as fast and easy as possible for research and development
+
+$ pip install Keras
+
+
+
