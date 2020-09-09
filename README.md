@@ -21,7 +21,7 @@ TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backwa
 
 <b>Requirements</b>
 
-1. numpy
+<h3>1. numpy</h3>
 
 
 NumPy is a python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely. NumPy stands for Numerical Python.
