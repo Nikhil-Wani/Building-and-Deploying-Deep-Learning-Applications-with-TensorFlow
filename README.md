@@ -23,23 +23,18 @@ TensorFlow provides stable Python and C++ APIs, as well as non-guaranteed backwa
 
 <h3>1. numpy</h3>
 
-
 NumPy is a python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely. NumPy stands for Numerical Python.
 
-$ pip install numpy
+<code>$ pip install numpy</code> 
  
- 
-2. pip>=9.0.0
-
+<h3>2. pip>=9.0.0</h3>
 
 PIP is a package manager for Python packages, or modules if you like.
 
 Install PIP
 If you do not have PIP installed, you can download and install it from this page: https://pypi.org/project/pip/
 
-
 3. Keras
-
 
 Keras is a minimalist Python library for deep learning that can run on top of Theano or TensorFlow. It was developed to make implementing deep learning models as fast and easy as possible for research and development
 
