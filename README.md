@@ -34,58 +34,49 @@ PIP is a package manager for Python packages, or modules if you like.
 Install PIP
 If you do not have PIP installed, you can download and install it from this page: https://pypi.org/project/pip/
 
-3. Keras
+<h3>3. Keras</h3>
 
 Keras is a minimalist Python library for deep learning that can run on top of Theano or TensorFlow. It was developed to make implementing deep learning models as fast and easy as possible for research and development
 
-$ pip install Keras
+<code>$ pip install Keras</code>
 
-
-4. pandas
-
+</h3>4. pandas</h3>
 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series
 
-$ pip install pandas
+<code>$ pip install pandas</code>
 
 
-5. scikit-learn
-
+</h3>5. scikit-learn</h3>
 
 Scikit-learn is a free machine learning library for Python. It features various algorithms like support vector machine, random forests, and k-neighbours, and it also supports Python numerical and scientific libraries like NumPy and SciPy.
 
-$ pip install sklearn
+<code>$ pip install sklearn</code>
 
-
-6. scipy
-
+<h3>6. scipy</h3>
 
 SciPy is a library that uses NumPy for more mathematical functions. SciPy uses NumPy arrays as the basic data structure, and comes with modules for various commonly used tasks in scientific programming, including linear algebra, integration (calculus), ordinary differential equation solving, and signal processing.
 
-$ pip install scipy
+<code>$ pip install scipy</code>
 
-
-7. tensorflow>=1.0.0
-
+<h3>7. tensorflow>=1.0.0</h3>
 
 See the TensorFlow install guide for the pip package, to enable GPU support, use a Docker container, and build from source.
 
 To install the current release, which includes support for CUDA-enabled GPU cards (Ubuntu and Windows):
 
-$ pip install tensorflow
+<code>$ pip install tensorflow</code>
 
 A smaller CPU-only package is also available:
 
-$ pip install tensorflow-cpu
+<code>$ pip install tensorflow-cpu</code>
 
 To update TensorFlow to the latest version, add --upgrade flag to the above commands.
 
-
-8. google-api-python-client
-
+<h3>8. google-api-python-client</h3>
 
 This is the Python client library for Google's discovery based API.
 
-$ pip install google-api-python
+<code>$ pip install google-api-python</code>
 
 
