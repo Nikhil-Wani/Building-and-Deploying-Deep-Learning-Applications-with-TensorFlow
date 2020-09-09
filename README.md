@@ -30,7 +30,6 @@ NumPy is a python library used for working with arrays. It also has functions fo
 <h3>2. pip>=9.0.0</h3>
 
 PIP is a package manager for Python packages, or modules if you like.
-
 Install PIP
 If you do not have PIP installed, you can download and install it from this page: https://pypi.org/project/pip/
 
@@ -40,14 +39,14 @@ Keras is a minimalist Python library for deep learning that can run on top of Th
 
 <code>$ pip install Keras</code>
 
-</h3>4. pandas</h3>
+<h3>4. pandas</h3>
 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series
 
 <code>$ pip install pandas</code>
 
 
-</h3>5. scikit-learn</h3>
+<h3>5. scikit-learn</h3>
 
 Scikit-learn is a free machine learning library for Python. It features various algorithms like support vector machine, random forests, and k-neighbours, and it also supports Python numerical and scientific libraries like NumPy and SciPy.
 
@@ -62,7 +61,6 @@ SciPy is a library that uses NumPy for more mathematical functions. SciPy uses N
 <h3>7. tensorflow>=1.0.0</h3>
 
 See the TensorFlow install guide for the pip package, to enable GPU support, use a Docker container, and build from source.
-
 To install the current release, which includes support for CUDA-enabled GPU cards (Ubuntu and Windows):
 
 <code>$ pip install tensorflow</code>
