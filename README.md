@@ -1,6 +1,6 @@
 # Building-and-Deploying-Deep-Learning-Applications-with-TensorFlow
 
-# Topics include:
+# Topics 
 
 1. What's TensorFlow?
 2. Hardware, software, and language requirements
